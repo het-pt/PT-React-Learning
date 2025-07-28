@@ -1,0 +1,19 @@
+.card {
+  background-color: rgb(150, 239, 239);
+  padding: 20px;
+  margin: 20px;
+  border-radius: 10px;
+  height: 15rem;
+  text-align: center;
+}
+.title {
+  font-size: 2rem;
+  color: rgb(246, 101, 101);
+  font-family: sans-serif;
+}
+.img {
+  border-radius: 50%;
+  border: 2px solid white;
+  width: 100px;
+  height: 100px;
+}
