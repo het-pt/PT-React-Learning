@@ -1,0 +1,25 @@
+.button {
+  width: 9rem;
+  height: 3rem;
+  border-radius: 0.5rem;
+  font-size: 1.5rem;
+  font-family: sans-serif;
+  color: white;
+  border: none;
+  &:hover {
+    cursor: pointer;
+  }
+}
+
+.red {
+  background-color: red;
+}
+.blue {
+  background-color: blue;
+}
+.button-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 2rem;
+}
